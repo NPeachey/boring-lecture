@@ -1,10 +1,6 @@
-h2.intro{
+.intro {
   color:blue;
-}
-p.intro{
   font-family: cursive;
   line-height: 30px;
-}
-img.intro {
-  width: 400px;
+  
 }
