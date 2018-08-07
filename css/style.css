@@ -2,5 +2,10 @@
   color:blue;
   font-family: cursive;
   line-height: 30px;
-  
+
+}
+
+.yellow-background {
+  background-color: yellow;
+  border: 2px solid black;
 }
